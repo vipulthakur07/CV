@@ -1,0 +1,40 @@
+
+body {
+  background-color: 	#e0ffff;
+}
+
+hr {
+  border-style: dotted none none none;
+  height:0px;
+  width:5%;
+  border-color: black;
+  border-width: 5px;
+  border-height: 5px;
+}
+h1 {
+  color: #8b0000;
+}
+
+h2, h3 {
+  color: 	#2f4f4f;
+
+}
+
+a:link, a:visited {
+  background-color: red;
+  color: white;
+  text-decoration:none;
+  text-align: center;
+  display: inline-block;
+  padding: 13px 24px;
+}
+
+a:active {
+  background-color: blue;
+}
+a:hover{
+  background-color: green;
+}
+td, th {
+  text-align: left;
+}
